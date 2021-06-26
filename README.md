@@ -20,11 +20,23 @@ $ git clone https://github.com/gspgaby/Desafio-Frontend-Grupo-GCB.git
 npm install
 ```
 
+ou
+
+```sh
+yarn install
+```
+
 - Em seguida, inicie a aplicação via terminal utilizando o comando:
 
 ```sh
 npm start
 ```
+ou
+
+```sh
+yarn start
+```
+
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 📦 Desenvolvimento
