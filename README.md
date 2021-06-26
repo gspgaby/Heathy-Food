@@ -1,4 +1,4 @@
-# Projeto Healthy Food
+# 💻 Projeto Healthy Food
 
 Projeto criado como GCB que consistia na criação de uma landing page responsiva, página de cadastro, login e dashboard. Foi utilizado o armazenamento em localstorage para salvar e visualizar os dados cadastrados.
 
