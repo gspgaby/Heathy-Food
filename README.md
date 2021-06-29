@@ -11,7 +11,8 @@ As instruções abaixo permitirão que você consiga ter esse projeto em operaç
 - Clone os aquivos do repositório.
 
 ```sh
-$ git clone https://github.com/gspgaby/Desafio-Frontend-Grupo-GCB.git
+$ git clone https://github.com/gspgaby/Heathy-Food.
+$ cd Heathy-Food
 ```
 
 - Após entrar na pasta clonada, instale via terminal utilizando o comando:
@@ -86,13 +87,14 @@ Em ambiente de desenvolvimento, você ainda pode executar os seguintes scripts:
 - Faça fork do repositorio
 
 ```sh
-$ gh repo fork gspgaby/Desafio-Frontend-Grupo-GCB
+$ gh repo fork https://github.com/gspgaby/Heathy-Food
 ```
 
 - Clone your fork
 
 ```sh
-$ git clone your-fork-url &&  cd Desafio-Frontend-Grupo-GCB
+$ git clone your-fork-url
+$ cd Healthy-Food
 ```
 
 - Crie uma branch para sua contribuição
